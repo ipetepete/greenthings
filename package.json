@@ -1,0 +1,7 @@
+{
+  "name": "greenthings",
+  "version": "1.0.0",
+  "description": "plant watering and monitoring app",
+  "main": "index.js",
+  "license": "MIT"
+}
